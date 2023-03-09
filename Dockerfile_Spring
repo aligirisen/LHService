@@ -1,0 +1,8 @@
+FROM maven:3.8.3-openjdk-17
+
+
+WORKDIR /LHService
+COPY . .
+RUN mvn clean install -X -e
+
+CMD mvn spring-boot:run

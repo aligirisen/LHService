@@ -1,0 +1,42 @@
+db.runCommand({whatsmyuri: 1})
+show log global
+help
+cls
+db.london_houses.find()
+db.london_houses.find
+db.london_houses.findAll
+show collections
+db.longon_houses enableTelemetry
+enableTelemetry
+isInteractive
+show logs.global
+show logs
+show logs startupWarnings
+show logs
+help
+db
+db.
+db.getMongo()
+db.getMongo().uri
+db.london_houses.find()
+db.london_houses.getIndexes
+db.london_houses
+db.getUsers
+londonhouse
+db.london_houses.find
+show london_houses
+show collections
+show db.londonhouses
+db.londonhouses
+db.londonhouses.getIndices()
+db.londonhouses.getIndıces()
+db.londonhouses.getName()
+db.londonhouses.getall()
+db.londonhouses.getName
+db.londonhouses.find
+db.londonhouses.findOne
+show collections
+show dbs
+db.london_houses.find()
+show collections
+show dbs
